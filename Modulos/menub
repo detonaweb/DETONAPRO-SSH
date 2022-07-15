@@ -16,7 +16,7 @@
 			clear
 			case $x in
 			1 | 01)
-			badpro
+			badvpn2
 			;;
 			2 | 02)
 			badvpn2
