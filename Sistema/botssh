@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@ALFAINTERNET-----------#
+#--------@THE_ORION_SCRIPT_PRO-----------#
 source ShellBot.sh
 touch lista
 [[ -z $1 ]] && {
