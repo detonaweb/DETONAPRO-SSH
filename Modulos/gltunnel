@@ -14,7 +14,7 @@
 			clear
 			case $x in
 			1 | 01)
-			bash <(curl -sL https://raw.githubusercontent.com/alfainternet/CheckUser/master/install.sh)
+			bash <(curl -sL https://raw.githubusercontent.com/TH30R10N/CheckUser/master/install.sh)
 			;;
 			2 | 02)
             initcheck
