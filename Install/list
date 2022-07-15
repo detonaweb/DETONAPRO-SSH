@@ -1,6 +1,6 @@
 #!/bin/bash
 #====================================================
-#	@ALFAINTERNET
+#	@THE_ORION_SCRIPT_PRO
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/TH30R10N/PR0/main/Modulos/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
