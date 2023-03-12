@@ -1,8 +1,8 @@
 # BEM VINDO 🖕
 
-# SSH-PLUS
+# DETONAWEBSSH PRO
 
-# @ALFAINTERNET
+# @detonawebssh4g
 
 *PROJETO EM ANDAMENTO...
 
@@ -17,6 +17,6 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TH30R10N/PR0/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/detonaweb/DETONAPRO-SSH/main/ssh-plus)
 
 ```
